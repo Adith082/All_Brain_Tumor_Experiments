@@ -1,0 +1,6 @@
+final test accuracy 94% accuracy
+
+just used vgg16 pretrained on imagenet as a feature extraction here
+
+batch size 32 with learning-rate .0001
+
